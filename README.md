@@ -25,7 +25,7 @@ https://nodejs.org/en/download/
 ## Git and GitHub
 > Save and share your code
 
-Git is a "Version Control System" that allows you to do many things such as save your code, create different versions of your code in "branches," or revert to an older version of your code. It is incredibly useful for collaboration between developers, as well as avoiding losing progress in the code we write if we make a costly mistake. 
+Git is a "Version Control System" that allows you to do many things such as save your code, create different versions of your code in "branches," or revert to an older version of your code. It is incredibly useful for collaboration between developers, and allows us to save our current progress in the event of a costly mistake later on.
 
 With over 73 million developers in 2021, GitHub is the most popular way to share and collaborate on coding projects. You will need Git and GitHub in CS 3251 and onwards.
 
