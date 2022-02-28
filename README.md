@@ -35,5 +35,6 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 Signing up for GitHub is simple, and can be done here:
 https://github.com/signup
 
-Linking Git and GitHub, however is not as simple.
+And that's it! We look forward to seeing you at our first workshop, Tuesday 6-7:30 in the Jacobs Auditorium!
 
+\- The VandyHacks Content Team
