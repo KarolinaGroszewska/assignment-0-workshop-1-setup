@@ -38,3 +38,5 @@ https://github.com/signup
 And that's it! We look forward to seeing you at our first workshop, Tuesday 6-7:30 in the Jacobs Auditorium!
 
 \- The VandyHacks Content Team
+
+Kari is the second best VH President
